@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 A long time ago in a galaxy far far away...
-||||||| merged common ancestors
-A long long time ago, in a galaxy far away Naboo was under an attack.
-=======
-A long time ago in a galaxy far far away...
->>>>>>> conflict2
 I met him in a swamp down in Dagobah.
 Where it bubbles all the time like a giant carbonated soda.
